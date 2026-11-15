@@ -1,0 +1,632 @@
+[
+  {
+    "code": "V010",
+    "title": "Data Types",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Describe types of data",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=433"
+  },
+  {
+    "code": "V020",
+    "title": "Data Structures",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Critically evaluate data and data structures",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=436"
+  },
+  {
+    "code": "V030",
+    "title": "Bias and Errors",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Describe bias, causes of error",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=451"
+  },
+  {
+    "code": "V040",
+    "title": "Data Validation",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Be able to validate data and create structures to avoid bias",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=447"
+  },
+  {
+    "code": "V050",
+    "title": "Presenting Data",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Summarise data using appropriate visualisations and tools relevant to the type of data",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=442"
+  },
+  {
+    "code": "V060",
+    "title": "Interpret Data",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Interpret and critique complex data summaries (eg survival, mixed model etc)",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=418"
+  },
+  {
+    "code": "V070",
+    "title": "Data Comparison",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Undertake univariate or multivariate comparisons relevant to different data sets",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=427"
+  },
+  {
+    "code": "V080",
+    "title": "Bayesian Statistics",
+    "profile": 0,
+    "module": "An introduction to data",
+    "outcome": "Describe the concept of bayesian statistics as they apply to biological systems",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=422"
+  },
+  {
+    "code": "V100",
+    "title": "Tools Data Extraction",
+    "profile": 0,
+    "module": "Complex data sources in the veterinary sector",
+    "outcome": "Extract data from tools through an understanding of the infrastructure of that tool including Milk production systems, feeding, biosensors, GPS, behaviour, productivity and other",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=431"
+  },
+  {
+    "code": "V110",
+    "title": "Data Format Translation",
+    "profile": 0,
+    "module": "Complex data sources in the veterinary sector",
+    "outcome": "Use specific software packages and translate data into consistent formats",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=430"
+  },
+  {
+    "code": "V120",
+    "title": "Data Sources",
+    "profile": 0,
+    "module": "Complex data sources in the veterinary sector",
+    "outcome": "Calculate and present summary data from individual data sources",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=426"
+  },
+  {
+    "code": "V130",
+    "title": "Big Data",
+    "profile": 0,
+    "module": "Big data for Vets",
+    "outcome": "Outline the concepts of developing technologies in the analysis of big data",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=425"
+  },
+  {
+    "code": "V140",
+    "title": "Complex Datasets",
+    "profile": 0,
+    "module": "Big data for Vets",
+    "outcome": "Explain how developing technologies can solve complex problems in animal production systems by leveraging large complex datasets: Block chain, Machine learning/neural networks, Generative AI/transformers",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=440"
+  },
+  {
+    "code": "V150",
+    "title": "Big Data Opportunities",
+    "profile": 0,
+    "module": "Big data for Vets",
+    "outcome": "Identify potential opportunities that arise from analysis of large data sets in animal health and welfare",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=435"
+  },
+  {
+    "code": "V160",
+    "title": "Developing Technologies",
+    "profile": 0,
+    "module": "Big data for Vets",
+    "outcome": "Create scenarios for specific problems that could be addressed with these technologies",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=444"
+  },
+  {
+    "code": "V170",
+    "title": "Bias Scenarios",
+    "profile": 0,
+    "module": "Big data for Vets",
+    "outcome": "Create scenarios of how interpretation of biased models could have negative impacts",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=432"
+  },
+  {
+    "code": "V180",
+    "title": "Advanced Data Models",
+    "profile": 0,
+    "module": "Big data for Vets",
+    "outcome": "Describe methods for validation of advanced data models",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=429"
+  },
+  {
+    "code": "V190",
+    "title": "Data Sharing Risks",
+    "profile": 0,
+    "module": "Big data for Vets",
+    "outcome": "Outline risks from sharing data in the development of large data structures (GDPR, BI)",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=423"
+  },
+  {
+    "code": "V200",
+    "title": "Big Data Impact",
+    "profile": 0,
+    "module": "Evaluating and applying data structures in the real world",
+    "outcome": "Deliver impact through recommendations about sustainability /food quality / animal health and welfare based upon big data analysis",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=439"
+  },
+  {
+    "code": "V210",
+    "title": "Predictions Derivations",
+    "profile": 0,
+    "module": "Evaluating and applying data structures in the real world",
+    "outcome": "Derive predictions and model future changes",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=419"
+  },
+  {
+    "code": "V220",
+    "title": "Behaviour Changes",
+    "profile": 0,
+    "module": "Evaluating and applying data structures in the real world",
+    "outcome": "Influence behaviour change in animal production systems",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=434"
+  },
+  {
+    "code": "V230",
+    "title": "Misuse Mitigation",
+    "profile": 0,
+    "module": "Evaluating and applying data structures in the real world",
+    "outcome": "Predict the impact of misuse and misinterpretation and explain how to mitigate these risks",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=438"
+  },
+  {
+    "code": "V240",
+    "title": "Big Data Frameworks",
+    "profile": 0,
+    "module": "Evaluating and applying data structures in the real world",
+    "outcome": "Explain the emerging regulatory frameworks in big-data, machine learning and generative AI",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=428"
+  },
+  {
+    "code": "V250",
+    "title": "Future Regulations",
+    "profile": 0,
+    "module": "Evaluating and applying data structures in the real world",
+    "outcome": "Identify potential future regulatory mechanisms and gaps in the current regulatory frameworks",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=424"
+  },
+  {
+    "code": "O250",
+    "title": "Pharmaceuticals Life Cycle",
+    "profile": 1,
+    "module": "An introduction to Responsible use of medicines and chemicals",
+    "outcome": "Explain the life cycle and potential impact of selected pharmaceuticals and chemicals Soil and water Animal based Consumer Workers Fauna and flora",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=467"
+  },
+  {
+    "code": "O260",
+    "title": "Pharmaceuticals Disposal",
+    "profile": 1,
+    "module": "An introduction to Responsible use of medicines and chemicals",
+    "outcome": "Explain how pharmaceuticals and chemicals can be disposed",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=461"
+  },
+  {
+    "code": "O270",
+    "title": "Waste Management Impact",
+    "profile": 1,
+    "module": "An introduction to Responsible use of medicines and chemicals",
+    "outcome": "Explain the impact of waste management practices and potential ecotoxicity",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=487"
+  },
+  {
+    "code": "O280",
+    "title": "Medicines Chemicals Regulations",
+    "profile": 1,
+    "module": "An introduction to Responsible use of medicines and chemicals",
+    "outcome": "Explain regulations that exist to limit the use and misuse of medicines and chemicals",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=485"
+  },
+  {
+    "code": "O290",
+    "title": "Antibiotic Resistance",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Basic introduction to antibiotic resistance",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=475"
+  },
+  {
+    "code": "O300",
+    "title": "Antimicrobial Resistance Mechanisms",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Explain how antimicrobial resistance occurs in different classes of medicine",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=458"
+  },
+  {
+    "code": "O310",
+    "title": "EU Antimicrobial Use Measurement",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Describe how antimicrobial use is measured by EU",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=479"
+  },
+  {
+    "code": "O320",
+    "title": "AMR Impact",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Describe the impact of AMR on animal disease, human disease, the environment, the microbiome and the resistome",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=465"
+  },
+  {
+    "code": "O330",
+    "title": "Antibiotics Negative Impacts",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Explain other negative impacts of antibiotic use",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=482"
+  },
+  {
+    "code": "O340",
+    "title": "Microbiological Molecular Antibiotic Enhancement",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Explain how microbiological and molecular techniques can be used to enhance antibiotic use",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=456"
+  },
+  {
+    "code": "O350",
+    "title": "Antibiotic Cost Factors",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Derive the factors that impact on the true costs of antibiotic use",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=459"
+  },
+  {
+    "code": "O360",
+    "title": "AMR Impact Reduction",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Awareness of best-practice strategies to reduce the impact of AMR on one-health in different production systems",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=466"
+  },
+  {
+    "code": "O370",
+    "title": "Antibiotics Alternatives Scenarios",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Predict scenarios where antibiotics are not available for treatment of particular diseases",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=462"
+  },
+  {
+    "code": "O380",
+    "title": "Antibiotics Livestock Alternatives",
+    "profile": 1,
+    "module": "Antibiotic resistance",
+    "outcome": "Alternatives to antimicrobials in livestock",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=454"
+  },
+  {
+    "code": "O390",
+    "title": "Disinfectants Resistance",
+    "profile": 1,
+    "module": "Disinfectants",
+    "outcome": "Explain how resistance occurs in different classes of disinfectants",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=474"
+  },
+  {
+    "code": "O400",
+    "title": "Disinfectants and Biofilms Impact",
+    "profile": 1,
+    "module": "Disinfectants",
+    "outcome": "Describe the impact of disinfectant use on the animal, human health, the environment and the resistome and the impact of biofilms",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=478"
+  },
+  {
+    "code": "O410",
+    "title": "Disinfectants in Animal Products",
+    "profile": 1,
+    "module": "Disinfectants",
+    "outcome": "Explain the fate of disinfectants in animal products",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=476"
+  },
+  {
+    "code": "O420",
+    "title": "Disinfectant Microbiological Effectiveness",
+    "profile": 1,
+    "module": "Disinfectants",
+    "outcome": "Explain how microbiological and molecular techniques can be used to measure the effectiveness of disinfectant protocols",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=469"
+  },
+  {
+    "code": "O430",
+    "title": "Antiparasite Resistance Impact",
+    "profile": 1,
+    "module": "Antiparasite resistance",
+    "outcome": "Explain how antiparasite resistance occurs and the impact on treatment of clinically important disease",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=480"
+  },
+  {
+    "code": "O440",
+    "title": "Antiparasitics Environmental Impact",
+    "profile": 1,
+    "module": "Antiparasite resistance",
+    "outcome": "Describe the health and environmental impacts of antiparasitics",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=473"
+  },
+  {
+    "code": "O450",
+    "title": "Anthelmintic Environmental Impact",
+    "profile": 1,
+    "module": "Antiparasite resistance",
+    "outcome": "Explain the impact of anthelmintic use on the environment",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=471"
+  },
+  {
+    "code": "O460",
+    "title": "Anthelmintic Diagnostic Approach",
+    "profile": 1,
+    "module": "Antiparasite resistance",
+    "outcome": "Develop risk-based diagnostic lead approaches to anthelmintic use in production animal systems",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=464"
+  },
+  {
+    "code": "O470",
+    "title": "Vaccination Strategies",
+    "profile": 1,
+    "module": "Sustainable approaches to disease control",
+    "outcome": "Explain how vaccination strategies can be used to control viral, bacterial and parasitic disease",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=477"
+  },
+  {
+    "code": "O480",
+    "title": "Vaccines Impact",
+    "profile": 1,
+    "module": "Sustainable approaches to disease control",
+    "outcome": "Describe the impacts of different vaccine technologies to diagnostic testing",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=484"
+  },
+  {
+    "code": "O490",
+    "title": "Emerging Approaches Disease Control",
+    "profile": 1,
+    "module": "Sustainable approaches to disease control",
+    "outcome": "Describe how emerging approaches to disease control might impact on the need for conventional medicines including bacteriophages",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=453"
+  },
+  {
+    "code": "O500",
+    "title": "Genetics Breeding Disease Reduction",
+    "profile": 1,
+    "module": "Sustainable approaches to disease control",
+    "outcome": "Identify opportunities to reduce disease through genetics and breeding",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=481"
+  },
+  {
+    "code": "O510",
+    "title": "Animal Systems Auditing",
+    "profile": 1,
+    "module": "Sustainable approaches to disease control",
+    "outcome": "Audit critical control points within animal systems based on published and farm data",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=463"
+  },
+  {
+    "code": "O520",
+    "title": "Disease Critical Control Points",
+    "profile": 1,
+    "module": "Sustainable approaches to disease control",
+    "outcome": "Determine critical control points in management structures that limit disease risks",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=470"
+  },
+  {
+    "code": "O530",
+    "title": "Disease Risk Factors Control",
+    "profile": 1,
+    "module": "Sustainable approaches to disease control",
+    "outcome": "Develop management structures by controlling risk factors in important diseases",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=460"
+  },
+  {
+    "code": "V550",
+    "title": "Vet Models",
+    "profile": 2,
+    "module": "Veterinary Business 2101",
+    "outcome": "Explain current and emerging vet business models",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=417"
+  },
+  {
+    "code": "V560",
+    "title": "Innovation Impact",
+    "profile": 2,
+    "module": "Veterinary Business 2101",
+    "outcome": "Explain how innovation, regulation, climate change, globalisation and sustainability will impact on established business models",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=441"
+  },
+  {
+    "code": "V570",
+    "title": "Change Management",
+    "profile": 2,
+    "module": "Veterinary Business 2101",
+    "outcome": "Explain the principles of change management in business models",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=449"
+  },
+  {
+    "code": "V580",
+    "title": "Social Challenges",
+    "profile": 2,
+    "module": "Veterinary Business 2101",
+    "outcome": "Predict how social challenges will influence change in business models",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=445"
+  },
+  {
+    "code": "V590",
+    "title": "Future Scenarios",
+    "profile": 2,
+    "module": "Veterinary Business 2101",
+    "outcome": "Design novel business models that address future scenarios",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=448"
+  },
+  {
+    "code": "V600",
+    "title": "Change Road Maps",
+    "profile": 2,
+    "module": "Veterinary Business 2101",
+    "outcome": "Develop a road map for change management within the business",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=421"
+  },
+  {
+    "code": "V610",
+    "title": "Crisis Scenarios",
+    "profile": 2,
+    "module": "Business preparedness",
+    "outcome": "Describe scenarios and develop strategies for crisis management",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=446"
+  },
+  {
+    "code": "V620",
+    "title": "Crisis Management",
+    "profile": 2,
+    "module": "Business preparedness",
+    "outcome": "Evaluate protocols for the management of crises",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=420"
+  },
+  {
+    "code": "V630",
+    "title": "System Analyses",
+    "profile": 2,
+    "module": "Business preparedness",
+    "outcome": "Evaluate system analyses and provide alternative paths",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=450"
+  },
+  {
+    "code": "V640",
+    "title": "Rapid Change",
+    "profile": 2,
+    "module": "Business preparedness",
+    "outcome": "Identify critical processes that are not amenable to rapid change",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=443"
+  },
+  {
+    "code": "V650",
+    "title": "Value Chain",
+    "profile": 2,
+    "module": "Communication Skills for business",
+    "outcome": "Explain the value chain in veterinary business",
+    "delivery": "Online",
+    "url": "https://fields.learnskills.ie/course/view.php?id=437"
+  },
+  {
+    "code": "O630",
+    "title": "Value Chain Analysis",
+    "profile": 2,
+    "module": "Communication Skills for business",
+    "outcome": "Undertake value chain analysis in different business models",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=457"
+  },
+  {
+    "code": "O640",
+    "title": "System Thinking and Networking",
+    "profile": 2,
+    "module": "Communication Skills for business",
+    "outcome": "Explain and practice System thinking and networking",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=455"
+  },
+  {
+    "code": "O650",
+    "title": "Challenge and Inspire",
+    "profile": 2,
+    "module": "Communication Skills for business",
+    "outcome": "Challenge and inspire others",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=483"
+  },
+  {
+    "code": "O660",
+    "title": "Conflict Management",
+    "profile": 2,
+    "module": "Communication Skills for business",
+    "outcome": "Demonstrate Emotional intelligence and effectively manage conflict within teams and with the public",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=472"
+  },
+  {
+    "code": "O670",
+    "title": "Opportunities Strategies Acitons",
+    "profile": 2,
+    "module": "Communication Skills for business",
+    "outcome": "Create opportunities, devise strategies and design effective action",
+    "delivery": "Workshop",
+    "url": "https://fields.learnskills.ie/course/view.php?id=486"
+  },
+  {
+    "code": "O680",
+    "title": "Leadership Strategies Development",
+    "profile": 2,
+    "module": "Communication Skills for business",
+    "outcome": "Explain the principles of leadership and develop strategies",
+    "delivery": "Assignment",
+    "url": "https://fields.learnskills.ie/course/view.php?id=468"
+  }
+]
